@@ -34,7 +34,7 @@
     
 }
 
--(void) prepareOpenGL {
+-(void)prepareOpenGL {
     SierpinskiInit();
 }
 

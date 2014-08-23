@@ -100,7 +100,7 @@ void logLinkerError(GLuint &program) {
     glGetProgramiv(program, GL_INFO_LOG_LENGTH, &logSize);
     char *logMsg = new char[logSize];
     glGetProgramInfoLog(program, logSize, NULL, logMsg);
-    cerr << "log msg: " << logMsg << "log len " << logSize << endl;
+    cerr << "log msg: " << logMsg << endl;
     delete [] logMsg;
 }
 
