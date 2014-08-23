@@ -11,25 +11,21 @@
 
 #include <openGL/gl3.h> 
 #include <glm/glm.hpp>
-
 #include <iostream> 
 #include <fstream>
 #include <string>
 
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
-
 using namespace std;
 
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
-
 const int NumPoints = 500000;
 
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
 void SierpinskiInit() {
-    cout << "calling init()" << endl;
     glm::vec2 points[NumPoints];
     
     glm::vec2 vertices[3] = {
@@ -69,7 +65,6 @@ void SierpinskiInit() {
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
 void SierpinskiDisplay(void) {
-    cout << "calling display()" << endl;
     glClear(GL_COLOR_BUFFER_BIT);
     glDrawArrays(GL_POINTS, 0, NumPoints);
     glFlush();
@@ -78,9 +73,5 @@ void SierpinskiDisplay(void) {
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
 int SierpinskiMain() {
-    cout << glGetString(GL_VERSION)  << endl
-         << glGetString(GL_VENDOR)   << endl
-         << glGetString(GL_RENDERER) << endl
-         << "hello world!!"          << endl;
     return 0; 
 }

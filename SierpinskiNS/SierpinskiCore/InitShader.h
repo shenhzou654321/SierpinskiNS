@@ -9,18 +9,14 @@
 #ifndef __SierpinskiNS__InitShader__
 #define __SierpinskiNS__InitShader__
 
-
 #include <iostream>
 #include <OpenGL/gl3.h>
-
 
 struct Shader {
     const char *filename;
     GLenum type;
     GLchar *source;
 };
-
-//typedef struct Shader Shader;
 
 GLuint InitShader(const char*, const char*);
 

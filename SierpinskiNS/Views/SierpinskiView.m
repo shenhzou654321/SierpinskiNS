@@ -30,10 +30,12 @@
     [super drawRect:dirtyRect];
     
     // Call the function to draw stuff to the screen....
-    SierpinskiMain();
-    SierpinskiInit();
     SierpinskiDisplay(); 
     
+}
+
+-(void) prepareOpenGL {
+    SierpinskiInit();
 }
 
 -(void)setupOpenGL4 {
