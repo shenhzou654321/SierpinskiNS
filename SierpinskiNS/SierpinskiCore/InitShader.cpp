@@ -54,7 +54,6 @@ GLuint InitShader(const char* vertexShaderFile, const char *fragmentShaderFile) 
 //-----------------------------------------------------------------------------
 void processShader(Shader &inShader, GLuint &program) {
     inShader.source = readShaderSource(inShader.filename);
-    
     if (inShader.source == NULL) {
         cerr << "Failed to read " << inShader.filename << endl;
         exit(EXIT_FAILURE);
@@ -66,7 +65,6 @@ void processShader(Shader &inShader, GLuint &program) {
     
     GLint compiled;
     glGetShaderiv(shader, GL_COMPILE_STATUS, &compiled);
-    
     if (compiled == GL_FALSE) {
         cerr << inShader.filename << " failed to compile!" << endl;
         logShaderError(shader);
@@ -80,24 +78,22 @@ void processShader(Shader &inShader, GLuint &program) {
 //-----------------------------------------------------------------------------
 static char* readShaderSource(const char* shaderFile) {
     FILE *fp = fopen(shaderFile, "r");
-    
     if (fp == NULL) return NULL;
     
     fseek(fp, 0L, SEEK_END);
     long size = ftell(fp);
     
     fseek(fp, 0L, SEEK_SET);
-    char *buff = new char[size + 1];
-    fread(buff, 1, size, fp);
-    buff[size] = '\0';
+    char *buffer = new char[size + 1];
+    fread(buffer, 1, size, fp);
+    buffer[size] = '\0';
 
     fclose(fp);
-    return buff;
+    return buffer;
 }
 
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
-
 void logLinkerError(GLuint &program) {
     cerr << "Inside log linker error" << endl;
     GLint logSize;
@@ -110,7 +106,6 @@ void logLinkerError(GLuint &program) {
 
 //-----------------------------------------------------------------------------
 //-----------------------------------------------------------------------------
-
 void logShaderError(GLuint &shader) {
     cerr << "Inside log shader error" << endl;
     GLint logSize;
