@@ -1,0 +1,602 @@
+TSierpinskiNS
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS normal x86_64
+cCpResource SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders
+cCpResource SierpinskiNS/SierpinskiCore/shaders/shader.vertsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh
+cCopyStringsFile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings SierpinskiNS/en.lproj/InfoPlist.strings
+cCpResource SierpinskiNS/SierpinskiCore/shaders/shader.fragsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh
+cCpResource SierpinskiNS/en.lproj/Credits.rtf Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets
+cProcessInfoPlistFile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist
+cPBXCp SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/shaders
+cTouch /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000535C65CB000000000000044C
+t1398564299
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000535C65CB00000000000001DE
+t1398564299
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000535C65CB000000000000253C
+t1398564299
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000535C65CC000000000000BB7C
+t1398564300
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535C65D00000000000000ADC
+t1398564304
+s2780
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch
+t1408773951
+s123780
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch
+t1408773951
+s124992
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o
+t1408773951
+s28328
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o
+t1408773952
+s76664
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o
+t1408773952
+s80760
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiNS.LinkFileList
+c0000000053F82F3F00000000000002EC
+t1408773951
+s748
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o
+t1408773951
+s70956
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o
+t1408773951
+s3416
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_dependencies.txt
+t1408773953
+s281
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_generated_info.plist
+t1408773953
+s181
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app
+t1408773951
+s102
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist
+t1408773953
+s1417
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS
+t1408773952
+s34148
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/PkgInfo
+t1408773953
+s8
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1408773952
+s38402
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf
+t1408773952
+s438
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1408773952
+s92
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh
+t1408773952
+s105
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh
+t1408773952
+s96
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders
+t1408773952
+s136
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/shaders
+t1408772840
+s136
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m
+c0000000053F70E5E000000000000014F
+t1408699998
+s335
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib
+c0000000053F712FE000000000000C3CA
+t1408701182
+s50122
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets
+c0000000053F70E5E0000000000000066
+t1408699998
+s102
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp
+c0000000053F82F300000000000000FD4
+t1408773936
+s4052
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp
+c0000000053F826000000000000000A26
+t1408771584
+s2598
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders
+c0000000053F82AE80000000000000088
+t1408772840
+s136
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders/shader.fragsh
+c0000000053F8265B0000000000000069
+t1408771675
+s105
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders/shader.vertsh
+c0000000053F82AE80000000000000060
+t1408772840
+s96
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist
+c0000000053F71ECE0000000000000443
+t1408704206
+s1091
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch
+c0000000053F70E5E00000000000000AC
+t1408699998
+s172
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m
+c0000000053F8263900000000000004B3
+t1408771641
+s1203
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/en.lproj/Credits.rtf
+c0000000053F715E500000000000001B6
+t1408701925
+s438
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/en.lproj/InfoPlist.strings
+c0000000053F70E5E000000000000002D
+t1408699998
+s45
+
+N/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m
+c0000000053F70E5E00000000000000FA
+t1408699998
+s250
+
+CBuild AST from /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m
+r0
+
+CBuild AST from /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp
+r0
+
+CBuild AST from /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp
+r0
+
+CBuild AST from /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m
+r0
+
+CBuild AST from /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies32e4c4bf66a8b941^0894cdbf66a8b941^---0#1#1#--18"Check dependencies36"59C88F3C-BB00-4BF4-89E5-A40AC0A58647-
+
+CCompileAssetCatalog /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets
+s430466752.405579
+e430466753.049719
+r1
+xCompileAssetCatalog
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/Assets.car
+o/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CompileAssetCatalog Build/Products/Debug/SierpinskiNS.app/Contents/Resources SierpinskiNS/Images.xcassets105"CompileAssetCatalog Build/Products/Debug/SierpinskiNS.app/Contents/Resources SierpinskiNS/Images.xcassets33dd67c066a8b941^2cbb0cc166a8b941^-310"/* com.apple.actool.compilation-results *//Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/Assets.car/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets/0000000000000000^913"CompileAssetCatalog Build/Products/Debug/SierpinskiNS.app/Contents/Resources SierpinskiNS/Images.xcassets    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Images.xcassets36"5D0298C2-2B8F-478C-8D54-D4D18381892D-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.914078
+e430466751.964760
+r1
+xCompileC
+xBuild/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m205"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o SierpinskiNS/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c10eabf66a8b941^f4fbf6bf66a8b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m0000000000000000^3531"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o SierpinskiNS/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -include /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/AppDelegate.m -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o36"776D76B3-5A49-4FE1-9192-57CADFEDC374-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.915203
+e430466752.229688
+r1
+xCompileC
+xBuild/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp212"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o SierpinskiNS/SierpinskiCore/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler9e5deabf66a8b941^46ce3ac066a8b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp0000000000000000^3461"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o SierpinskiNS/SierpinskiCore/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -include /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.d --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.dia -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.cpp -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o36"2F24554B-B807-4EA1-8104-ADAAD2415409-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.914513
+e430466752.368064
+r1
+xCompileC
+xBuild/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinskiMain.h
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/InitShader.h
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/glm.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/_fixes.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/fwd.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_int.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/setup.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_float.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/precision.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/vec2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec2.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/vec3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec3.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/vec4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec4.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat2x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x2.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat2x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x3.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat2x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat2x4.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat3x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x2.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat3x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x3.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat3x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat3x4.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat4x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x2.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x2.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat4x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x3.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x3.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/mat4x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x4.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_mat4x4.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/trigonometric.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_trigonometric.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_trigonometric.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/_vectorize.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec1.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_vec1.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/exponential.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_exponential.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_exponential.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_vector_relational.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_vector_relational.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/common.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_common.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_common.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/packing.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_packing.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_packing.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_half.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/type_half.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/geometric.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_geometric.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_geometric.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/matrix.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_matrix.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_matrix.inl
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/vector_relational.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/integer.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_integer.hpp
+d/usr/local/Cellar/glm/0.9.5.4/include/glm/detail/func_integer.inl
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp220"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerac3beabf66a8b941^7e3a5ec066a8b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp0000000000000000^3485"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -include /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.d --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.dia -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinksiMain.cpp -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o36"FC1C63BC-2604-4A39-8A13-7A6B48FC29F3-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.914233
+e430466751.988251
+r1
+xCompileC
+xBuild/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.h
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/SierpinskiMain.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m217"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o SierpinskiNS/Views/SierpinskiView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1618eabf66a8b941^b400fdbf66a8b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m0000000000000000^3561"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o SierpinskiNS/Views/SierpinskiView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -include /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.d --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.dia -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Views/SierpinskiView.m -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o36"27D10356-F30E-46B4-8A25-548E012D6A44-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.914771
+e430466751.952844
+r1
+xCompileC
+xBuild/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m191"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o SierpinskiNS/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa44eabf66a8b941^0beef3bf66a8b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m0000000000000000^3489"CompileC Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o SierpinskiNS/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -include /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.dia -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/main.m -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o36"F1937C7C-5FA4-46F5-B251-09098EDC739E-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCompileXIB /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib
+s430466752.404985
+e430466753.210827
+r1
+xCompileXIB
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib
+o2014-08-22 23:05:52.863 ibtoold[8450:507] *** WARNING: Method setAttributes: in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***
+o2014-08-22 23:05:52.863 ibtoold[8450:507] *** WARNING: Method attributes in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib47"CompileXIB SierpinskiNS/Base.lproj/MainMenu.xib48c167c066a8b941^bef935c166a8b941^-322"2014-08-22 23:05:52.863 ibtoold[8450:507] *** WARNING: Method setAttributes: in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***2014-08-22 23:05:52.863 ibtoold[8450:507] *** WARNING: Method attributes in class NSOpenGLPixelFormat is obsolete and will be removed in a future release. ***-0#0#1#-19%DVTDocumentLocation2@93"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib0000000000000000^584"CompileXIB SierpinskiNS/Base.lproj/MainMenu.xib    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/Base.lproj/MainMenu.xib36"7CE6AEA7-3253-471A-83CB-A7DB574D0C55-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCopyStringsFile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings SierpinskiNS/en.lproj/InfoPlist.strings
+s430466752.404191
+e430466752.405296
+r1
+xCopyStringsFile
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings
+xSierpinskiNS/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy SierpinskiNS/en.lproj/InfoPlist.strings139"CopyStringsFile Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings SierpinskiNS/en.lproj/InfoPlist.strings4d8667c066a8b941^1ac067c066a8b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/en.lproj/InfoPlist.strings0000000000000000^446"CopyStringsFile Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/InfoPlist.strings SierpinskiNS/en.lproj/InfoPlist.strings    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj -- SierpinskiNS/en.lproj/InfoPlist.strings36"EA73F3BB-BD6E-4B0F-BEE9-83AE667C7486-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCpResource SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders
+s430466752.403971
+e430466752.405318
+r1
+xCpResource
+xSierpinskiNS/SierpinskiCore/shaders
+xBuild/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders111"CpResource SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders4b7367c066a8b941^27bd67c066a8b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders003474eadcffdf42^474"CpResource SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shaders    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources36"7264051C-C42C-4506-99DE-37B63261529D-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCpResource SierpinskiNS/SierpinskiCore/shaders/shader.fragsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh
+s430466752.404414
+e430466752.405414
+r1
+xCpResource
+xSierpinskiNS/SierpinskiCore/shaders/shader.fragsh
+xBuild/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh131"CpResource SierpinskiNS/SierpinskiCore/shaders/shader.fragsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragshb89467c066a8b941^93c767c066a8b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh003474eadcffdf42^508"CpResource SierpinskiNS/SierpinskiCore/shaders/shader.fragsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.fragsh    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders/shader.fragsh /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources36"32807A5A-22D8-423C-9AE5-F15A1AD42033-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCpResource SierpinskiNS/SierpinskiCore/shaders/shader.vertsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh
+s430466752.404076
+e430466752.404956
+r1
+xCpResource
+xSierpinskiNS/SierpinskiCore/shaders/shader.vertsh
+xBuild/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh131"CpResource SierpinskiNS/SierpinskiCore/shaders/shader.vertsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh647967c066a8b941^97ab67c066a8b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh003474eadcffdf42^508"CpResource SierpinskiNS/SierpinskiCore/shaders/shader.vertsh Build/Products/Debug/SierpinskiNS.app/Contents/Resources/shader.vertsh    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiCore/shaders/shader.vertsh /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources36"D64D4D88-C0A6-4622-BD99-DED9F8A79DCB-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CCpResource SierpinskiNS/en.lproj/Credits.rtf Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf
+s430466752.404633
+e430466752.405560
+r1
+xCpResource
+xSierpinskiNS/en.lproj/Credits.rtf
+xBuild/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf122"CpResource SierpinskiNS/en.lproj/Credits.rtf Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf129f67c066a8b941^4fcf67c066a8b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf003474eadcffdf42^492"CpResource SierpinskiNS/en.lproj/Credits.rtf Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/en.lproj/Credits.rtf /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Resources/en.lproj36"04C4F78E-2162-4B26-8880-9F7071377011-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CLd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS normal x86_64
+s430466752.368690
+e430466752.403314
+r1
+xLd
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS
+xnormal
+xx86_64
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiNS.LinkFileList
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiView.o
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinksiMain.o
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/main.o
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/InitShader.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS82"Ld Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS normal x86_642b6c5ec066a8b941^d54067c066a8b941^---0#0#1#--1150"Ld Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS normal x86_64    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug -filelist /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiNS.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -stdlib=libc++ -framework OpenGL -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/Objects-normal/x86_64/SierpinskiNS_dependency_info.dat -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/MacOS/SierpinskiNS36"7212729C-EC1F-489F-B14B-D9935387BDBE-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CPBXCp SierpinskiNS/SierpinskiCore/shaders Build/Products/Debug/shaders
+r0
+
+CProcessInfoPlistFile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist
+s430466753.211249
+e430466753.212612
+r1
+xProcessInfoPlistFile
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist115"ProcessInfoPlistFile Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist SierpinskiNS/SierpinskiNS-Info.plist931e36c166a8b941^fc6e36c166a8b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist0000000000000000^726"ProcessInfoPlistFile Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist SierpinskiNS/SierpinskiNS-Info.plist    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    builtin-infoPlistUtility /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Info.plist -genpkginfo /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/assetcatalog_generated_info.plist -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app/Contents/Info.plist36"9729EC1F-8528-4D8C-97AD-A860575E40E1-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CProcessPCH /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.804013
+e430466751.913540
+r1
+xProcessPCH
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch
+xSierpinskiNS/SierpinskiNS-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile SierpinskiNS/SierpinskiNS-Prefix.pch233"ProcessPCH Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd6e4cdbf66a8b941^87dfe9bf66a8b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch0000000000000000^3449"ProcessPCH Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.dia -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.d -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-hijefmvrakgeodevwpkqcbpcbrqp/SierpinskiNS-Prefix.pch.pch36"8680D8C5-445B-4574-A809-0489AD242CE3-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CProcessPCH /Users/josh/Library/Developer/Xcode/DerivedData/SierpinskiNS-gcqhryeubzogazgrvmjabsltbxlo/Index/PrecompiledHeaders/SierpinskiNS-Prefix-chdzcgrgzwnhcyddyncjpdswcswa_ast/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s430466751.804245
+e430466751.815495
+r1
+xProcessPCH++
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch
+xSierpinskiNS/SierpinskiNS-Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile SierpinskiNS/SierpinskiNS-Prefix.pch227"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler9df1cdbf66a8b941^22c5d0bf66a8b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch0000000000000000^3353"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-generated-files.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-own-target-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-all-target-headers.hmap -iquote /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/SierpinskiNS-project-headers.hmap -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/Cellar/glm/0.9.5.4/include -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources/x86_64 -I/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/SierpinskiNS.build/Debug/SierpinskiNS.build/DerivedSources -F/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug --serialize-diagnostics /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.dia -MMD -MT dependencies -MF /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.d -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch -o /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Intermediates/PrecompiledHeaders/SierpinskiNS-Prefix-chvdiymixwxczgfhhcrzzjjdwowk/SierpinskiNS-Prefix.pch.pch36"EB0BF849-7C6E-4AC9-957B-48EA6469EDB1-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+
+CProcessPCH++ /Users/josh/Library/Developer/Xcode/DerivedData/SierpinskiNS-gcqhryeubzogazgrvmjabsltbxlo/Index/PrecompiledHeaders/SierpinskiNS-Prefix-epjcapmiwubujrfpfwsixrktlnas_ast/SierpinskiNS-Prefix.pch.pch SierpinskiNS/SierpinskiNS-Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app
+s430466753.213178
+e430466753.215874
+r1
+xTouch
+x/Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app43"Touch Build/Products/Debug/SierpinskiNS.app789836c166a8b941^a24437c166a8b941^---0#0#1#--211"Touch Build/Products/Debug/SierpinskiNS.app    cd /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS    /usr/bin/touch -c /Users/josh/Documents/Sierpinski/SDL/SierpinskiNS/Build/Products/Debug/SierpinskiNS.app36"F66D96C6-3A52-4B48-8577-90A958E1FC07-
+b8B090AA7-FD19-48D9-89A0-B29D51DCE387
+

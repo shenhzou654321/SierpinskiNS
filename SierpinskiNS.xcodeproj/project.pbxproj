@@ -1,0 +1,566 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03C2284419A745DE00A6254A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03C2284319A745DE00A6254A /* Cocoa.framework */; };
+		03C2284E19A745DE00A6254A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 03C2284C19A745DE00A6254A /* InfoPlist.strings */; };
+		03C2285019A745DE00A6254A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C2284F19A745DE00A6254A /* main.m */; };
+		03C2285419A745DE00A6254A /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 03C2285219A745DE00A6254A /* Credits.rtf */; };
+		03C2285719A745DE00A6254A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C2285619A745DE00A6254A /* AppDelegate.m */; };
+		03C2285A19A745DE00A6254A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03C2285819A745DE00A6254A /* MainMenu.xib */; };
+		03C2285C19A745DE00A6254A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03C2285B19A745DE00A6254A /* Images.xcassets */; };
+		03C2286319A745DE00A6254A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03C2286219A745DE00A6254A /* XCTest.framework */; };
+		03C2286419A745DE00A6254A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03C2284319A745DE00A6254A /* Cocoa.framework */; };
+		03C2286C19A745DE00A6254A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 03C2286A19A745DE00A6254A /* InfoPlist.strings */; };
+		03C2286E19A745DE00A6254A /* SierpinskiNSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C2286D19A745DE00A6254A /* SierpinskiNSTests.m */; };
+		03C2288219A7469300A6254A /* SierpinskiView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C2288119A7469300A6254A /* SierpinskiView.m */; };
+		03C2288419A747FE00A6254A /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03C2288319A747FE00A6254A /* OpenGL.framework */; };
+		03C2288B19A74B1F00A6254A /* SierpinksiMain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 03C2288919A74B1F00A6254A /* SierpinksiMain.cpp */; };
+		03C2289019A7534500A6254A /* shader.vertsh in Resources */ = {isa = PBXBuildFile; fileRef = 03C2288F19A7534500A6254A /* shader.vertsh */; };
+		03C2289219A753BC00A6254A /* shaders in Resources */ = {isa = PBXBuildFile; fileRef = 03C2289119A753BC00A6254A /* shaders */; };
+		03FB165919A7588C00E7AF72 /* shaders in CopyFiles */ = {isa = PBXBuildFile; fileRef = 03C2289119A753BC00A6254A /* shaders */; };
+		03FB165B19A815E000E7AF72 /* shader.fragsh in Resources */ = {isa = PBXBuildFile; fileRef = 03FB165A19A815E000E7AF72 /* shader.fragsh */; };
+		03FB165E19A81A4600E7AF72 /* InitShader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 03FB165C19A81A4600E7AF72 /* InitShader.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		03C2286519A745DE00A6254A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 03C2283819A745DE00A6254A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 03C2283F19A745DE00A6254A;
+			remoteInfo = SierpinskiNS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		03FB165819A7587200E7AF72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 16;
+			files = (
+				03FB165919A7588C00E7AF72 /* shaders in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		03C2284019A745DE00A6254A /* SierpinskiNS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SierpinskiNS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		03C2284319A745DE00A6254A /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		03C2284619A745DE00A6254A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		03C2284719A745DE00A6254A /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		03C2284819A745DE00A6254A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		03C2284B19A745DE00A6254A /* SierpinskiNS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SierpinskiNS-Info.plist"; sourceTree = "<group>"; };
+		03C2284D19A745DE00A6254A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		03C2284F19A745DE00A6254A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		03C2285119A745DE00A6254A /* SierpinskiNS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SierpinskiNS-Prefix.pch"; sourceTree = "<group>"; };
+		03C2285319A745DE00A6254A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		03C2285519A745DE00A6254A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		03C2285619A745DE00A6254A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		03C2285919A745DE00A6254A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		03C2285B19A745DE00A6254A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		03C2286119A745DE00A6254A /* SierpinskiNSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SierpinskiNSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		03C2286219A745DE00A6254A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		03C2286919A745DE00A6254A /* SierpinskiNSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SierpinskiNSTests-Info.plist"; sourceTree = "<group>"; };
+		03C2286B19A745DE00A6254A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		03C2286D19A745DE00A6254A /* SierpinskiNSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SierpinskiNSTests.m; sourceTree = "<group>"; };
+		03C2288019A7469300A6254A /* SierpinskiView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SierpinskiView.h; sourceTree = "<group>"; };
+		03C2288119A7469300A6254A /* SierpinskiView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SierpinskiView.m; sourceTree = "<group>"; };
+		03C2288319A747FE00A6254A /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		03C2288919A74B1F00A6254A /* SierpinksiMain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SierpinksiMain.cpp; sourceTree = "<group>"; };
+		03C2288A19A74B1F00A6254A /* SierpinskiMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SierpinskiMain.h; sourceTree = "<group>"; };
+		03C2288F19A7534500A6254A /* shader.vertsh */ = {isa = PBXFileReference; explicitFileType = sourcecode.glsl; fileEncoding = 4; path = shader.vertsh; sourceTree = "<group>"; };
+		03C2289119A753BC00A6254A /* shaders */ = {isa = PBXFileReference; lastKnownFileType = folder; name = shaders; path = SierpinskiCore/shaders; sourceTree = "<group>"; };
+		03FB165A19A815E000E7AF72 /* shader.fragsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = shader.fragsh; sourceTree = "<group>"; };
+		03FB165C19A81A4600E7AF72 /* InitShader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = InitShader.cpp; sourceTree = "<group>"; };
+		03FB165D19A81A4600E7AF72 /* InitShader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitShader.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		03C2283D19A745DE00A6254A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2288419A747FE00A6254A /* OpenGL.framework in Frameworks */,
+				03C2284419A745DE00A6254A /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		03C2285E19A745DE00A6254A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2286419A745DE00A6254A /* Cocoa.framework in Frameworks */,
+				03C2286319A745DE00A6254A /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03C2283719A745DE00A6254A = {
+			isa = PBXGroup;
+			children = (
+				03C2284919A745DE00A6254A /* SierpinskiNS */,
+				03C2286719A745DE00A6254A /* SierpinskiNSTests */,
+				03C2284219A745DE00A6254A /* Frameworks */,
+				03C2284119A745DE00A6254A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		03C2284119A745DE00A6254A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				03C2284019A745DE00A6254A /* SierpinskiNS.app */,
+				03C2286119A745DE00A6254A /* SierpinskiNSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		03C2284219A745DE00A6254A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				03C2288319A747FE00A6254A /* OpenGL.framework */,
+				03C2284319A745DE00A6254A /* Cocoa.framework */,
+				03C2286219A745DE00A6254A /* XCTest.framework */,
+				03C2284519A745DE00A6254A /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		03C2284519A745DE00A6254A /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				03C2284619A745DE00A6254A /* AppKit.framework */,
+				03C2284719A745DE00A6254A /* CoreData.framework */,
+				03C2284819A745DE00A6254A /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		03C2284919A745DE00A6254A /* SierpinskiNS */ = {
+			isa = PBXGroup;
+			children = (
+				03C2288819A74B1F00A6254A /* SierpinskiCore */,
+				03C2287F19A7469300A6254A /* Views */,
+				03C2285519A745DE00A6254A /* AppDelegate.h */,
+				03C2285619A745DE00A6254A /* AppDelegate.m */,
+				03C2285819A745DE00A6254A /* MainMenu.xib */,
+				03C2285B19A745DE00A6254A /* Images.xcassets */,
+				03C2284A19A745DE00A6254A /* Supporting Files */,
+			);
+			path = SierpinskiNS;
+			sourceTree = "<group>";
+		};
+		03C2284A19A745DE00A6254A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				03C2289119A753BC00A6254A /* shaders */,
+				03C2284B19A745DE00A6254A /* SierpinskiNS-Info.plist */,
+				03C2284C19A745DE00A6254A /* InfoPlist.strings */,
+				03C2284F19A745DE00A6254A /* main.m */,
+				03C2285119A745DE00A6254A /* SierpinskiNS-Prefix.pch */,
+				03C2285219A745DE00A6254A /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		03C2286719A745DE00A6254A /* SierpinskiNSTests */ = {
+			isa = PBXGroup;
+			children = (
+				03C2286D19A745DE00A6254A /* SierpinskiNSTests.m */,
+				03C2286819A745DE00A6254A /* Supporting Files */,
+			);
+			path = SierpinskiNSTests;
+			sourceTree = "<group>";
+		};
+		03C2286819A745DE00A6254A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				03C2286919A745DE00A6254A /* SierpinskiNSTests-Info.plist */,
+				03C2286A19A745DE00A6254A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		03C2287F19A7469300A6254A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				03C2288019A7469300A6254A /* SierpinskiView.h */,
+				03C2288119A7469300A6254A /* SierpinskiView.m */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		03C2288819A74B1F00A6254A /* SierpinskiCore */ = {
+			isa = PBXGroup;
+			children = (
+				03C2288E19A7534500A6254A /* shaders */,
+				03FB165C19A81A4600E7AF72 /* InitShader.cpp */,
+				03FB165D19A81A4600E7AF72 /* InitShader.h */,
+				03C2288919A74B1F00A6254A /* SierpinksiMain.cpp */,
+				03C2288A19A74B1F00A6254A /* SierpinskiMain.h */,
+			);
+			path = SierpinskiCore;
+			sourceTree = "<group>";
+		};
+		03C2288E19A7534500A6254A /* shaders */ = {
+			isa = PBXGroup;
+			children = (
+				03C2288F19A7534500A6254A /* shader.vertsh */,
+				03FB165A19A815E000E7AF72 /* shader.fragsh */,
+			);
+			path = shaders;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		03C2283F19A745DE00A6254A /* SierpinskiNS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 03C2287119A745DE00A6254A /* Build configuration list for PBXNativeTarget "SierpinskiNS" */;
+			buildPhases = (
+				03C2283C19A745DE00A6254A /* Sources */,
+				03C2283D19A745DE00A6254A /* Frameworks */,
+				03C2283E19A745DE00A6254A /* Resources */,
+				03FB165819A7587200E7AF72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SierpinskiNS;
+			productName = SierpinskiNS;
+			productReference = 03C2284019A745DE00A6254A /* SierpinskiNS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		03C2286019A745DE00A6254A /* SierpinskiNSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 03C2287419A745DE00A6254A /* Build configuration list for PBXNativeTarget "SierpinskiNSTests" */;
+			buildPhases = (
+				03C2285D19A745DE00A6254A /* Sources */,
+				03C2285E19A745DE00A6254A /* Frameworks */,
+				03C2285F19A745DE00A6254A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				03C2286619A745DE00A6254A /* PBXTargetDependency */,
+			);
+			name = SierpinskiNSTests;
+			productName = SierpinskiNSTests;
+			productReference = 03C2286119A745DE00A6254A /* SierpinskiNSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		03C2283819A745DE00A6254A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "___FULLUSERNAME___";
+				TargetAttributes = {
+					03C2286019A745DE00A6254A = {
+						TestTargetID = 03C2283F19A745DE00A6254A;
+					};
+				};
+			};
+			buildConfigurationList = 03C2283B19A745DE00A6254A /* Build configuration list for PBXProject "SierpinskiNS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 03C2283719A745DE00A6254A;
+			productRefGroup = 03C2284119A745DE00A6254A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				03C2283F19A745DE00A6254A /* SierpinskiNS */,
+				03C2286019A745DE00A6254A /* SierpinskiNSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		03C2283E19A745DE00A6254A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2289219A753BC00A6254A /* shaders in Resources */,
+				03C2289019A7534500A6254A /* shader.vertsh in Resources */,
+				03C2284E19A745DE00A6254A /* InfoPlist.strings in Resources */,
+				03FB165B19A815E000E7AF72 /* shader.fragsh in Resources */,
+				03C2285C19A745DE00A6254A /* Images.xcassets in Resources */,
+				03C2285419A745DE00A6254A /* Credits.rtf in Resources */,
+				03C2285A19A745DE00A6254A /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		03C2285F19A745DE00A6254A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2286C19A745DE00A6254A /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		03C2283C19A745DE00A6254A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2285719A745DE00A6254A /* AppDelegate.m in Sources */,
+				03C2288219A7469300A6254A /* SierpinskiView.m in Sources */,
+				03C2288B19A74B1F00A6254A /* SierpinksiMain.cpp in Sources */,
+				03C2285019A745DE00A6254A /* main.m in Sources */,
+				03FB165E19A81A4600E7AF72 /* InitShader.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		03C2285D19A745DE00A6254A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03C2286E19A745DE00A6254A /* SierpinskiNSTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		03C2286619A745DE00A6254A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 03C2283F19A745DE00A6254A /* SierpinskiNS */;
+			targetProxy = 03C2286519A745DE00A6254A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		03C2284C19A745DE00A6254A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				03C2284D19A745DE00A6254A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		03C2285219A745DE00A6254A /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				03C2285319A745DE00A6254A /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		03C2285819A745DE00A6254A /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				03C2285919A745DE00A6254A /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		03C2286A19A745DE00A6254A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				03C2286B19A745DE00A6254A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		03C2286F19A745DE00A6254A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/local/Cellar/glm/0.9.5.4/include,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		03C2287019A745DE00A6254A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/local/Cellar/glm/0.9.5.4/include,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		03C2287219A745DE00A6254A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SierpinskiNS/SierpinskiNS-Prefix.pch";
+				INFOPLIST_FILE = "SierpinskiNS/SierpinskiNS-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		03C2287319A745DE00A6254A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SierpinskiNS/SierpinskiNS-Prefix.pch";
+				INFOPLIST_FILE = "SierpinskiNS/SierpinskiNS-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		03C2287519A745DE00A6254A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SierpinskiNS.app/Contents/MacOS/SierpinskiNS";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SierpinskiNS/SierpinskiNS-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SierpinskiNSTests/SierpinskiNSTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		03C2287619A745DE00A6254A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SierpinskiNS.app/Contents/MacOS/SierpinskiNS";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SierpinskiNS/SierpinskiNS-Prefix.pch";
+				INFOPLIST_FILE = "SierpinskiNSTests/SierpinskiNSTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		03C2283B19A745DE00A6254A /* Build configuration list for PBXProject "SierpinskiNS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03C2286F19A745DE00A6254A /* Debug */,
+				03C2287019A745DE00A6254A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		03C2287119A745DE00A6254A /* Build configuration list for PBXNativeTarget "SierpinskiNS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03C2287219A745DE00A6254A /* Debug */,
+				03C2287319A745DE00A6254A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		03C2287419A745DE00A6254A /* Build configuration list for PBXNativeTarget "SierpinskiNSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03C2287519A745DE00A6254A /* Debug */,
+				03C2287619A745DE00A6254A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 03C2283819A745DE00A6254A /* Project object */;
+}

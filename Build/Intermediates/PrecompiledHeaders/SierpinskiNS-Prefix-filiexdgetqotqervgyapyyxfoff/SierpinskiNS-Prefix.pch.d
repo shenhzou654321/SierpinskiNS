@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/josh/SierpinskiNS/SierpinskiNS/SierpinskiNS-Prefix.pch \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/Darwin-1KUH01444P66J.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/MachO-2E7474XE1VZYL.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/ObjectiveC-3OO7YL0IIQJJ4.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/os-1KUH01444P66J.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/Dispatch-BYODACQV67BG.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreFoundation-2GXIOANQWAIU.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/libkern-1KUH01444P66J.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/IOKit-2SC6Z2ZI1CHM5.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/XPC-1KUH01444P66J.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/IOSurface-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreGraphics-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/Security-2T6Z7LEZX9K11.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/DiskArbitration-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/_Builtin_intrinsics-1AE10C45D7CG0.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CFNetwork-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreServices-3HOKYB74BCR7U.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreText-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/ImageIO-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/ApplicationServices-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/Foundation-H3O4154MS2QT.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/OpenGL-2TOOH35BB6JK8.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreVideo-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/QuartzCore-29VZ82IJFMB31.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/CoreData-SBTDT82Y3CNO.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/AppKit-25HFR8YWQTPXC.pcm \
+  /Users/josh/Library/Developer/Xcode/DerivedData/ModuleCache/NKZKC6W52HJX/Cocoa-SBTDT82Y3CNO.pcm
